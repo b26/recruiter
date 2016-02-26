@@ -1,0 +1,22 @@
+{
+  "name": "recruiter",
+  "version": "1.0.0",
+  "description": "recruiting application for nodejs",
+  "main": "indeed.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b26/recruiter.git"
+  },
+  "author": "Bashir Osman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/b26/recruiter/issues"
+  },
+  "homepage": "https://github.com/b26/recruiter#readme",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
