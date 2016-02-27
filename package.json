@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/b26/recruiter#readme",
   "dependencies": {
+    "prompt": "^1.0.0",
     "underscore": "^1.8.3"
   }
 }
